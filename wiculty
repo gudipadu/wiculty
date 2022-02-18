@@ -5,3 +5,18 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/gudipadu/wiculty.git
 git push -u origin main
+echo "# wiculty" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gudipadu/wiculty.git
+git push -u origin main
+fggjdfgfjg;'
+]][[]
+pup[-][pku=-'.o]
+poop
+
+
+h
+]jh'p\]pu
